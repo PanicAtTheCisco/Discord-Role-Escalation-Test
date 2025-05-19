@@ -1,12 +1,8 @@
 # Discord-Role-Escalation-Test
 ## Version: 1.4
-A Discord Bot with the capabilities of elevating a user's roles on any Discord Server it is on
+A backdoored Discord bot with the capabilities of elevating a user's permissons on any Discord Server it is invited to. This was created as a learning project for JS and Discord bots
 
 ---
- ## IMPORTANT: 
- * THIS BOT IS A PROJECT TO LEARN MORE ABOUT JS AND DISCORD BOTS, ONLY USE ON SERVERS YOU HAVE PERMISSION TO : DO NOT USE FOR MALICIOUS PURPOSES
- * DEVELOPER IS NOT RESPONSIBLE FOR ANYTHING DONE WITH BOT BY OTHERS
-
  ## REQUIREMENTS:
  * node.js installed
  * discord.js npm packaged installed
