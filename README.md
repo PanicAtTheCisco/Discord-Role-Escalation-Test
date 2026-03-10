@@ -17,7 +17,7 @@ A backdoored Discord bot with the capabilities of elevating a user's permissons 
  * Run 'node .' in terminal to start bot
  
  ## NOTE:
- * I wrote part of this a while ago, so most of it is not using discord.js v14
+ * I wrote part of this a while ago, so this is likely not using the latest discord.js
  * Bot must be on the server for use
  * There are still a few bugs being worked with the '-create' and '-add' commands so expect a few issues
  * There is no multi-command handling so if more than one person tries to use a command at the same time nothing will happen for either of them. If needed on multiple servers it is recommened to host different instances of the bot
